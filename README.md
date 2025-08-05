@@ -33,8 +33,6 @@ This boilerplate uses the following technologies and libraries:
 
 # 👨‍💻 How to Use
 
-Você pode **[usar este template](https://github.com/felipeAguiarCode/node-blue-boilerplate/generate)** diretamente no GitHub, ou seguir os passos abaixo para clonar e rodar localmente:
-
 ### Requisitos
 
 - [Git](https://git-scm.com)
@@ -45,7 +43,7 @@ Você pode **[usar este template](https://github.com/felipeAguiarCode/node-blue-
 
 ```bash
 # Clone este repositório
-git clone https://github.com/felipeAguiarCode/node-blue-boilerplate
+git clone https://github.com/UpSnow/node-upsnow-boilerplate.git
 
 # Acesse o diretório do projeto
 cd node-upsnow-boilerplate
