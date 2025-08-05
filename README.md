@@ -48,7 +48,7 @@ Você pode **[usar este template](https://github.com/felipeAguiarCode/node-blue-
 git clone https://github.com/felipeAguiarCode/node-blue-boilerplate
 
 # Acesse o diretório do projeto
-cd node-blue-boilerplate
+cd node-upsnow-boilerplate
 
 # Instale as dependências
 npm install
